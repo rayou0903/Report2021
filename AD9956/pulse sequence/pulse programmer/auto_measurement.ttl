@@ -1,0 +1,57 @@
+; 測定モジュールを動作させる一連の動作
+
+call init
+call main
+call exitseq
+end
+
+; ポート5に接続する
+:init 
+	inputbox "COM PORT:" "CONNECT"
+	connect_arg = "/C="
+	strconcat connect_arg inputstr
+	strconcat connect_arg " /F="
+	getdir dir
+	strconcat connect_arg dir
+	strconcat connect_arg "\TERATERM.INI"
+	connect connect_arg
+	
+	fileopen fh "Outdata_for_FPGA.csv" 0 ; fhでファイルを開く
+	
+	return 
+	
+:main
+	; メモリへの書き込み開始
+	filereadln fh readstr
+	do
+		sendln "sdw1"
+
+		strsplit readstr ","
+		send groupmatchstr1
+
+		send groupmatchstr2
+
+		filereadln fh readstr
+	loop while result = 0
+
+	; ファイルの最初に移動
+	fileseek fh 0 0
+
+
+	; メモリからの読み出し開始
+	filereadln fh readstr
+	do
+
+		sendln "sdr1"
+		strsplit readstr ","
+		send groupmatchstr1
+		
+		filereadln fh readstr
+	loop while result = 0
+
+
+	return
+
+:exitseq
+	fileclose fh
+	return 

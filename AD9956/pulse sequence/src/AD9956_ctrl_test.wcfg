@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/rayou/Papilio/src/AD9956_ctrl_test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="ad9956_ctrl_test" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/ad9956_ctrl_test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/clk_2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_2</obj_property>
+      <obj_property name="ObjectShortName">clk_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/req_dds" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">req_dds</obj_property>
+      <obj_property name="ObjectShortName">req_dds</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/data64" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data64[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data64[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/sdo" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sdo</obj_property>
+      <obj_property name="ObjectShortName">sdo</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/sdio" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sdio</obj_property>
+      <obj_property name="ObjectShortName">sdio</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/sclk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sclk</obj_property>
+      <obj_property name="ObjectShortName">sclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/psel" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">psel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">psel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/cs" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cs</obj_property>
+      <obj_property name="ObjectShortName">cs</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/io_update" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">io_update</obj_property>
+      <obj_property name="ObjectShortName">io_update</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/receive" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">receive</obj_property>
+      <obj_property name="ObjectShortName">receive</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/uut/state" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ad9956_ctrl_test/uut/dds_com/state" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,29 @@
+Command line:
+   DDS_data_drive_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58262
+
+Wed Feb 24 18:27:13 2021
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5153.56 Meg
+
+ Total Signals          : 56
+ Total Nets             : 1397
+ Total Signal Drivers   : 31
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 13
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 1899
+Total Line Count : 138
+
+ Total Simulation Time: 1.4375 sec
+
+ Current Memory Usage: 4681.7 Meg
+
+Wed Feb 24 18:30:29 2021
+

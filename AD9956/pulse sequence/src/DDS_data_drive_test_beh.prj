@@ -1,0 +1,2 @@
+vhdl work "DDS_data_drive.vhd"
+vhdl work "DDS_data_drive_test.vhd"

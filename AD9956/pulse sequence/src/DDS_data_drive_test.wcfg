@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/rayou/Papilio/src/DDS_data_drive_test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="dds_data_drive_test" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/dds_data_drive_test/data_len" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">data_len</obj_property>
+      <obj_property name="ObjectShortName">data_len</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/data_in" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_in[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/enable" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">enable</obj_property>
+      <obj_property name="ObjectShortName">enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/recieve" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">recieve</obj_property>
+      <obj_property name="ObjectShortName">recieve</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/ac_reg_1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ac_reg_1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ac_reg_1[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/ac_reg_2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ac_reg_2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ac_reg_2[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/data_out_1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_out_1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out_1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/data_out_2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_out_2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out_2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/dds1_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dds1_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dds1_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/dds2_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dds2_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dds2_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/req_dds_1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">req_dds_1</obj_property>
+      <obj_property name="ObjectShortName">req_dds_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/req_dds_2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">req_dds_2</obj_property>
+      <obj_property name="ObjectShortName">req_dds_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/enable_1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">enable_1</obj_property>
+      <obj_property name="ObjectShortName">enable_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/enable_2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">enable_2</obj_property>
+      <obj_property name="ObjectShortName">enable_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/dds_data_drive_test/uut/counter" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">counter[3:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[3:0]</obj_property>
+   </wvobject>
+</wave_config>
