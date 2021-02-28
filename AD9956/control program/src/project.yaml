@@ -1,0 +1,144 @@
+src_files:
+  - file_name: AD9851_ctrl.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - AD9851_ctrl
+  - file_name: ascii_pac.vhd
+    language: vhdl
+    library: work
+  - file_name: ipcore_dir/clk_generator.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - clk_generator
+  - file_name: clk_gen_rs232c.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - clk_gen_rs232c
+  - file_name: command_execute.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - command_execute
+  - file_name: crlf_observer.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - crlf_observer
+  - file_name: data_decode.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - data_decode
+  - file_name: data_fetch.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - data_fetch
+  - file_name: data_types.vhd
+    language: vhdl
+    library: work
+  - file_name: DDS_data.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - DDS_data
+  - file_name: DDS_data_drive.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - DDS_data_drive
+  - file_name: ipcore_dir/fifo_receive.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - fifo_receive
+  - file_name: ipcore_dir/fifo_trans.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - fifo_trans
+  - file_name: just_measurement.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - just_measurement
+  - file_name: master_counter.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - master_counter
+  - file_name: receive.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - receive
+  - file_name: rs232c_8bit_receive.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - rs232c_8bit_receive
+  - file_name: rs232c_8bit_transfer.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - rs232c_8bit_transfer
+  - file_name: SDRAM_ctrl.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - SDRAM_ctrl
+  - file_name: SDRAM_rd.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - SDRAM_rd
+  - file_name: SDRAM_wr.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - SDRAM_wr
+  - file_name: signal_auth_ctrl.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - signal_auth_ctrl
+  - file_name: state_machine.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - state_machine
+  - file_name: string_send.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - string_send
+  - file_name: top.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - top
+  - file_name: transfer.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - transfer
+  - file_name: types.vhd
+    language: vhdl
+    library: work
+  - file_name: vector_mux.vhd
+    language: vhdl
+    library: work
+    entity_names:
+      - vector_mux
+
+ucf_file: top.ucf
+
+top_module: top
+
+part:
+  device: xc6slx9
+  package: tqg144
+  speed: -2

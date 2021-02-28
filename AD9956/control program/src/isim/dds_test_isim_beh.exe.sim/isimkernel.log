@@ -1,0 +1,29 @@
+Command line:
+   dds_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  61635
+
+Wed Aug 19 10:34:34 2020
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5153.15 Meg
+
+ Total Signals          : 26
+ Total Nets             : 121
+ Total Signal Drivers   : 15
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 11
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 625
+Total Line Count : 375
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 5153.15 Meg
+
+Wed Aug 19 10:34:59 2020
+

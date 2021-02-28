@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/AD9851_ctrl.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/DDS_data.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/DDS_data_drive.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/SDRAM_ctrl.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/SDRAM_rd.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/SDRAM_wr.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/ascii_pac.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/clk_gen_rs232c.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/command_execute.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/crlf_observer.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/data_decode.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/data_fetch.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/data_types.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/just_measurement.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/master_counter.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/receive.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/rs232c_8bit_receive.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/rs232c_8bit_transfer.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/signal_auth_ctrl.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/state_machine.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/string_send.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/top.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/transfer.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/types.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/hoshino_Data/SotsuKen/ISE/myinteg100/src/vector_mux.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+

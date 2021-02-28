@@ -1,0 +1,43 @@
+Release 14.7 - par P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+MON 21 DEC 14:58:29 2020
+
+All signals are completely routed.
+
+WARNING:ParHelpers:361 - There are 31 loadless signals in this design. This design will cause Bitgen to issue DRC
+   warnings.
+
+   WING_B<0>_IBUF
+   WING_B<10>_IBUF
+   WING_B<11>_IBUF
+   WING_B<12>_IBUF
+   WING_B<13>_IBUF
+   WING_B<14>_IBUF
+   WING_B<15>_IBUF
+   WING_B<1>_IBUF
+   WING_B<2>_IBUF
+   WING_B<3>_IBUF
+   WING_B<4>_IBUF
+   WING_B<5>_IBUF
+   WING_B<6>_IBUF
+   WING_B<7>_IBUF
+   WING_B<8>_IBUF
+   WING_B<9>_IBUF
+   WING_C<10>_IBUF
+   WING_C<11>_IBUF
+   WING_C<12>_IBUF
+   WING_C<13>_IBUF
+   WING_C<14>_IBUF
+   WING_C<15>_IBUF
+   WING_C<1>_IBUF
+   WING_C<2>_IBUF
+   WING_C<3>_IBUF
+   WING_C<4>_IBUF
+   WING_C<5>_IBUF
+   WING_C<6>_IBUF
+   WING_C<7>_IBUF
+   WING_C<8>_IBUF
+   WING_C<9>_IBUF
+
+
